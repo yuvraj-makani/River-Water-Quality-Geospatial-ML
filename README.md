@@ -89,3 +89,41 @@ Mapping of built-up areas, vegetation, agricultural land, and water bodies
 
 Geospatial visualization of classified results
 
+
+## Technology Stack
+
+Technology
+
+Application
+
+Google Earth Engine
+
+Cloud-based satellite data access and processing
+
+Sentinel-2
+
+Multispectral optical satellite imagery
+
+Landsat
+
+Multispectral land-surface observations
+
+VIIRS
+
+Night-time light observations
+
+Python
+
+Data processing and workflow automation
+
+QGIS
+
+Spatial analysis, mapping, and visualization
+
+Jupyter Notebook / Google Colab
+
+Interactive development and analysis
+
+Pandas and NumPy
+
+Tabular data handling and numerical processing, where applicable
