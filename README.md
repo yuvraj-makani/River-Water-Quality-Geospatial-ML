@@ -92,8 +92,6 @@ Geospatial visualization of classified results
 
 ## Technology Stack
 
-## Technology Stack
-
 | Technology / Tool | Purpose |
 |---|---|
 | **Google Earth Engine (GEE)** | Cloud-based satellite imagery processing and geospatial analysis |
