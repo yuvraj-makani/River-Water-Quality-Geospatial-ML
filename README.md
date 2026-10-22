@@ -131,7 +131,7 @@ Tabular data handling and numerical processing, where applicable
 
 ## Methodology
 
-The project follows a multi-source geospatial workflow.
+### The project follows a multi-source geospatial workflow.
 
 Study area definition: Define the Ganga River corridor and the corresponding buffer zone from Kanpur to Varanasi.
 
@@ -148,3 +148,31 @@ LULC analysis: Examine land-use and land-cover patterns using the implemented cl
 Python and QGIS integration: Combine programmatic processing with spatial visualization and analysis.
 
 Result generation: Prepare maps, tables, and analytical outputs to support interpretation of the study area.
+
+
+## Expected Applications
+
+Multi-source satellite image processing
+
+Land-use and land-cover mapping
+
+Spatial assessment of human activity patterns
+
+River corridor environmental monitoring
+
+Satellite-based investigation of water-related characteristics
+
+Geospatial analysis to support river basin management and environmental research
+
+## Limitations
+
+Optical satellite observations can be affected by cloud cover, atmospheric conditions, and spatial resolution.
+
+Night-time light intensity is an indirect indicator of human activity and does not independently establish environmental impact.
+
+LULC classification accuracy depends on the classification method, input data, and validation process.
+
+Reliable quantitative water quality assessment requires suitable spectral indicators or models and, where possible, independent field measurements.
+
+Findings should be interpreted in the context of the implemented methods and available data.
+
