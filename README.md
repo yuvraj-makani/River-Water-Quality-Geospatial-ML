@@ -92,42 +92,21 @@ Geospatial visualization of classified results
 
 ## Technology Stack
 
-Technology
+## Technology Stack
 
-Application
-
-Google Earth Engine
-
-Cloud-based satellite data access and processing
-
-Sentinel-2
-
-Multispectral optical satellite imagery
-
-Landsat
-
-Multispectral land-surface observations
-
-VIIRS
-
-Night-time light observations
-
-Python
-
-Data processing and workflow automation
-
-QGIS
-
-Spatial analysis, mapping, and visualization
-
-Jupyter Notebook / Google Colab
-
-Interactive development and analysis
-
-Pandas and NumPy
-
-Tabular data handling and numerical processing, where applicable
-
+| Technology / Tool | Purpose |
+|---|---|
+| **Google Earth Engine (GEE)** | Cloud-based satellite imagery processing and geospatial analysis |
+| **Sentinel-2** | Multispectral satellite imagery for land-surface and water-related analysis |
+| **Landsat** | Satellite imagery for land-use analysis and environmental monitoring |
+| **VIIRS** | Night-time light analysis to assess spatial patterns of human activity |
+| **Python** | Data processing, automation, and geospatial workflow development |
+| **QGIS** | Geospatial visualization, spatial analysis, and map generation |
+| **Google Colab / Jupyter Notebook** | Interactive coding, experimentation, and analysis |
+| **Google Earth Engine Python API (`ee`)** | Programmatic access to Google Earth Engine datasets and processing capabilities |
+| **Pandas** | Tabular data manipulation and analysis |
+| **NumPy** | Numerical computation and array operations |
+| **Matplotlib** | Data visualization and analytical plotting, where applicable |
 
 ## Methodology
 
