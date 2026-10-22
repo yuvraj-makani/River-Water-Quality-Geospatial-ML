@@ -1,7 +1,7 @@
 ## Satellite-Based Assessment of River Water Quality and Human Influence Using Geospatial ML
 A geospatial remote sensing project focused on satellite-based analysis of the Ganga River corridor to investigate river water quality and surrounding human influence using Google Earth Engine, Python, and QGIS.
 
-#Project Overview
+## Project Overview
 
 This project was undertaken in the context of a summer internship at the Indian Institute of Technology (IIT) Roorkee. It focuses on developing repeatable geospatial workflows for processing satellite imagery and analyzing land-use patterns and human influence across the Ganga River Basin.
 
