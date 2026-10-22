@@ -176,3 +176,21 @@ Reliable quantitative water quality assessment requires suitable spectral indica
 
 Findings should be interpreted in the context of the implemented methods and available data.
 
+## Internship
+
+Indian Institute of Technology Roorkee (IIT Roorkee)
+Summer Internship | June 2026 – August 2026
+
+The internship work involved automated satellite imagery processing, large-scale geospatial analysis, and integration of Python and QGIS to support repeatable environmental and land-use assessment workflows.
+
+## Acknowledgements
+
+I acknowledge the Indian Institute of Technology Roorkee and Water Resources & Development Management Department for the internship opportunity and the providers of the satellite datasets and open-source geospatial tools used in this project.
+
+License
+
+A suitable license may be added after confirming permission to publish the code, data products, and associated research materials.
+
+Author: Yuvraj Makani, Aanya Aggarwal
+
+Focus Areas: Remote Sensing · Geospatial Machine Learning · Satellite Image Processing · LULC Analysis · Environmental Monitoring
