@@ -33,3 +33,59 @@ Spatial coverage: 150 km buffer zone on either side of the river
 
 Research domains: Remote sensing, LULC analysis, human influence assessment, and river environmental monitoring
 
+## Satellite Datasets
+
+### 1. Sentinel-2
+
+Used for optical satellite observations and detailed analysis of land-surface and environmental characteristics.
+
+Potential applications within the workflow include:
+
+Multispectral imagery analysis
+
+Vegetation and land-surface characterization
+
+Water-related spectral analysis, where implemented
+
+Image selection and cloud-cover filtering
+
+### 2. Landsat
+
+Used to support satellite-based land-surface analysis and investigation of spatial patterns across the study region.
+
+Potential applications include:
+
+Multispectral image analysis
+
+Land-use and land-cover assessment
+
+Surface change analysis, where implemented
+
+Environmental monitoring across the study area
+
+### 3. VIIRS
+
+Used for satellite-derived night-time light observations to investigate patterns associated with human activity across the Ganga River corridor.
+
+Potential applications include:
+
+Night-time light intensity analysis
+
+Spatial assessment of human activity patterns
+
+Comparison of urbanized and less-developed areas, where implemented
+
+### 4. Land Use and Land Cover (LULC)
+
+LULC analysis is an important component of the project, connecting satellite observations with the spatial distribution of land-cover types and surrounding human activity.
+
+Depending on the implemented workflow, this may include:
+
+Identification or classification of land-use categories
+
+Spatial distribution of land-cover patterns
+
+Mapping of built-up areas, vegetation, agricultural land, and water bodies
+
+Geospatial visualization of classified results
+
