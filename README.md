@@ -127,3 +127,24 @@ Interactive development and analysis
 Pandas and NumPy
 
 Tabular data handling and numerical processing, where applicable
+
+
+## Methodology
+
+The project follows a multi-source geospatial workflow.
+
+Study area definition: Define the Ganga River corridor and the corresponding buffer zone from Kanpur to Varanasi.
+
+Satellite data acquisition: Access relevant Sentinel-2, Landsat, and VIIRS datasets through suitable data collections and platforms.
+
+Data filtering and preprocessing: Apply appropriate spatial, temporal, and data-quality filters.
+
+Optical imagery analysis: Process Sentinel-2 and Landsat imagery for relevant land-surface and environmental analysis.
+
+Human influence assessment: Analyze VIIRS night-time light observations to investigate spatial patterns associated with human activity.
+
+LULC analysis: Examine land-use and land-cover patterns using the implemented classification or mapping workflow.
+
+Python and QGIS integration: Combine programmatic processing with spatial visualization and analysis.
+
+Result generation: Prepare maps, tables, and analytical outputs to support interpretation of the study area.
