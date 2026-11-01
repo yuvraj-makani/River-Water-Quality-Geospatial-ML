@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data (keep documentation tracked)
+data/*
+!data/README.md
+
+# Generated outputs (keep documentation tracked)
+outputs/*
+!outputs/README.md
+
+# Local assets/results
+assets/*
+!assets/README.md
+
+# Large raster and geospatial data
+*.tif
+*.tiff
+*.vrt
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qix
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
